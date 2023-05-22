@@ -10,6 +10,7 @@ canvas{
 animation-name: example;
 animation-duration: 4s;
 animation-iteration-count: infinite;
+border: 2px black;
 }
 
 @keyframes example{
